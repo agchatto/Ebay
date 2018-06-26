@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24303" started-at="2018-06-26T19:40:00Z" finished-at="2018-06-26T19:40:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24303" started-at="2018-06-26T19:40:00Z" finished-at="2018-06-26T19:40:25Z">
+      <class name="bidding.Macbook">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:bidding.Macbook@5b275dab]" name="beforeClass" is-config="true" duration-ms="2990" started-at="2018-06-26T15:40:00Z" finished-at="2018-06-26T15:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:bidding.Macbook@5b275dab]" name="test1" duration-ms="14298" started-at="2018-06-26T15:40:03Z" finished-at="2018-06-26T15:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:bidding.Macbook@5b275dab]" name="afterClass" is-config="true" duration-ms="7000" started-at="2018-06-26T15:40:18Z" finished-at="2018-06-26T15:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- bidding.Macbook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
